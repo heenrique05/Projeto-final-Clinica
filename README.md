@@ -41,6 +41,7 @@ Sistema web de agendamento de consultas para uma clínica médica. O paciente cr
 ## Estrutura
 
 ```
+prime-clinic-project-final/
 ├── index.html                        # todas as telas (SPA com troca de "screens")
 ├── style.css
 ├── app.js                            # lógica do front-end
