@@ -2,6 +2,8 @@
 
 Sistema web de agendamento de consultas para uma clínica médica. O paciente cria a conta, escolhe o médico, o dia e o horário, e paga pelo próprio site. O médico tem um painel separado para acompanhar a agenda.
 
+🔗 **Site no ar:** https://primeeclinic.netlify.app/
+
 ## Funcionalidades
 
 **Paciente**
